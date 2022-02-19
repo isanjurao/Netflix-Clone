@@ -32,7 +32,7 @@ const login = () => {
             <input className='block outline-none p-2 mb-4 text-white h-12 w-80 bg-[#645555d2]' name='password' type='password' placeholder='Password' />
             <a href="/"> <button className='w-80 h-12 mt-8 text-xl bg-[#e50914]  hover:bg-[#ff0c0cfd]'>Sign In </button></a>
             <p className='w-80 mt-4'>This page is protected by Google reCAPTCHA to ensure you're not a bot.
-            <a className='text-blue-500' href="/">learm more</a></p>
+            <a className='text-blue-500' href="/">learn more</a></p>
         </div>
 
     </div>
